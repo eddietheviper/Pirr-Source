@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3e99ef7565b763c4c84fe7f6f9f9538b
+timeCreated: 1507045795
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mini Pixel-7
+  fontNames:
+  - Mini Pixel-7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
